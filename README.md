@@ -1,8 +1,5 @@
 # 🔍 Semantic Search & Recommendation System Using Word2Vec
 
-> **LPU Project 8 — Python & Full Stack Development**
-> Course: Python & Full Stack Development | Lovely Professional University
-
 ---
 
 ## 📌 Project Overview
@@ -97,7 +94,6 @@ project/
 ### 1. Clone / Download the project
 ```bash
 git clone https://github.com/srinivasgupth81/embedding.git
-cd lpu-semantic-search
 ```
 
 ### 2. Install dependencies
